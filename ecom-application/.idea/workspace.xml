@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="beffa977-36aa-43d4-826b-0a1fcd0a8af1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Gateway/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Gateway/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Gateway/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Gateway/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Gateway/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Gateway/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Gateway/src/main/java/com/gateway/gateway/GatewayApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Gateway/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Gateway/src/test/java/com/gateway/gateway/GatewayApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/billing-service/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/billing-service/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/billing-service/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/billing-service/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/billing-service/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/billing-service/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/billing-service/src/main/java/com/ecom/billingservice/BillingServiceApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/billing-service/src/main/java/com/ecom/billingservice/Entities/Bill.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/billing-service/src/main/java/com/ecom/billingservice/Entities/ProductItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/billing-service/src/main/java/com/ecom/billingservice/Models/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/billing-service/src/main/java/com/ecom/billingservice/Models/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/billing-service/src/main/java/com/ecom/billingservice/Repository/BillRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/billing-service/src/main/java/com/ecom/billingservice/Repository/ProductItemRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/billing-service/src/main/java/com/ecom/billingservice/ServicesCommunication/CustomerRestClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/billing-service/src/main/java/com/ecom/billingservice/ServicesCommunication/ProductRestClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/billing-service/src/main/java/com/ecom/billingservice/Web/BillController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/billing-service/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/billing-service/src/test/java/com/ecom/billingservice/BillingServiceApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/custumor-service/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/custumor-service/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/custumor-service/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/custumor-service/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/custumor-service/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/custumor-service/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/custumor-service/src/main/java/com/ecom/custumorservice/CustomerProjection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/custumor-service/src/main/java/com/ecom/custumorservice/CustumorServiceApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/custumor-service/src/main/java/com/ecom/custumorservice/Entities/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/custumor-service/src/main/java/com/ecom/custumorservice/Repository/CustomerRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/custumor-service/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/custumor-service/src/test/java/com/ecom/custumorservice/CustumorServiceApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/discovery-service/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/discovery-service/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/discovery-service/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/discovery-service/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/discovery-service/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/discovery-service/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/discovery-service/src/main/java/com/example/discoveryservice/DiscoveryServiceApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/discovery-service/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/discovery-service/src/test/java/com/example/discoveryservice/DiscoveryServiceApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/invintory-service/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/invintory-service/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/invintory-service/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/invintory-service/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/invintory-service/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/invintory-service/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/invintory-service/src/main/java/com/ecom/invintoryservice/Entities/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/invintory-service/src/main/java/com/ecom/invintoryservice/InvintoryServiceApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/invintory-service/src/main/java/com/ecom/invintoryservice/Repository/ProducRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/invintory-service/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/invintory-service/src/test/java/com/ecom/invintoryservice/InvintoryServiceApplicationTests.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaFXApplication" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/invintory-service" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="2N2yvX91SCVnNIGxvrKSPXuTkQU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;LombokPluginIS_LOMBOK_JPS_FIX_ENABLED&quot;: &quot;true&quot;,
+    &quot;LombokPluginIS_LOMBOK_VERSION_CHECK_Enabled&quot;: &quot;true&quot;,
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;1.8&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/hbouachir/IdeaProjects/ecom-application&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Artifacts&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;cdc95ad5c0232a3b380728c784c4f1a0&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.ecom.billingservice.Entities" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.InvintoryServiceApplication">
+    <configuration name="BillingServiceApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="billing-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ecom.billingservice.BillingServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BillingServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="billing-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.billingservice.BillingServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CustumorServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="custumor-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ecom.custumorservice.CustumorServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DiscoveryServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="discovery-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.discoveryservice.DiscoveryServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GatewayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="Gateway" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.gateway.gateway.GatewayApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InvintoryServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="invintory-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ecom.invintoryservice.InvintoryServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="beffa977-36aa-43d4-826b-0a1fcd0a8af1" name="Changes" comment="" />
+      <created>1678876705358</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1678876705358</updated>
+      <workItem from="1678876706460" duration="18321000" />
+      <workItem from="1678957973934" duration="4066000" />
+      <workItem from="1678963294279" duration="362000" />
+      <workItem from="1678963669089" duration="21787000" />
+      <workItem from="1679060428186" duration="783000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
