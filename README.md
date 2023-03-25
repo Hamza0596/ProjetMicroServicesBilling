@@ -1,3 +1,3 @@
 # ProjetMicroServicesBilling
-
+J'ai utilisé la communication declaratives entre les micro services :Feign est une bibliothèque Spring qui simplifie la communication HTTP entre les microservices. Elle permet de définir des interfaces de service en utilisant une syntaxe similaire à celle de Spring MVC, qui sont ensuite utilisées pour appeler les API HTTP des autres microservices. Feign gère automatiquement la résolution des noms de domaines et des ports, la construction des URL et la sérialisation/désérialisation des objets. En utilisant Feign, les développeurs peuvent créer des clients HTTP déclaratifs pour interagir avec d'autres microservices de manière transparente.
 https://www.youtube.com/watch?v=XEzBA3yIII8
